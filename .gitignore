@@ -1,0 +1,16 @@
+# set files or folders to ignore in the git repository
+
+# ignore node modules folder
+node_module
+
+# ignore normal Textfiles
+*.txt
+
+# ignore Logfiles
+*.log
+
+# ignore IDE Files
+.idea
+
+# ignore Temp
+.tmp
