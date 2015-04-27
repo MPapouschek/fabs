@@ -1,0 +1,36 @@
+{
+  "name": "fabs",
+  "version": "0.0.1",
+  "description": "description of your current project",
+  "keywords": [],
+  "homepage": "https://github.com/MPapouschek/fabs",
+  "bugs": {
+    "url": "",
+    "email": ""
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/repository.git"
+  },
+  "config": {
+    "port": "8080"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "matchdep": "^0.3.0"
+  },
+  "engines": {
+    "node": ">=0.10.3 <0.12"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
